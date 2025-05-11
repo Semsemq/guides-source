@@ -270,3 +270,4 @@ What follows is a full implementation of the above logger service:
 <a class="jsbin-embed" href="http://emberjs.jsbin.com/fajeriwu/1/embed?html,js,console,output">Ember Starter Kit</a><script src="https://static.jsbin.com/js/embed.js"></script>
 
 Dependency injection and service lookup are two powerful tools in your Ember.js toolset, and every mature Ember application will require their use.
+@global-owner1  @global-owner2
